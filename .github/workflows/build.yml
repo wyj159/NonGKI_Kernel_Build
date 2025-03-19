@@ -22,7 +22,7 @@ permissions:
         required: true
         type: boolean
         默认: true
-        build_kernel_mix2s_evox_a15:
+        build_kernel_mix2_evox_a15:
         description: "Build Kernel Xiaomi Mix2 (EVOX-A15-Official)?"
         required: true
         type: boolean
